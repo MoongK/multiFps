@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day34 - FPSGame", "Assembly-CSharp-firstpass.csproj", "{DB6796CC-D55D-B932-3B7B-882621F02BE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day34 - FPSGame", "Assembly-CSharp.csproj", "{D29BA635-ADE8-48A5-2D99-F01B90736A45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day34 - FPSGame", "Assembly-CSharp-Editor-firstpass.csproj", "{3FC7B14B-B115-18E4-5736-47D82691DC98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB6796CC-D55D-B932-3B7B-882621F02BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6796CC-D55D-B932-3B7B-882621F02BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6796CC-D55D-B932-3B7B-882621F02BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6796CC-D55D-B932-3B7B-882621F02BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D29BA635-ADE8-48A5-2D99-F01B90736A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29BA635-ADE8-48A5-2D99-F01B90736A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29BA635-ADE8-48A5-2D99-F01B90736A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29BA635-ADE8-48A5-2D99-F01B90736A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC7B14B-B115-18E4-5736-47D82691DC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC7B14B-B115-18E4-5736-47D82691DC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC7B14B-B115-18E4-5736-47D82691DC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC7B14B-B115-18E4-5736-47D82691DC98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
